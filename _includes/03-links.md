@@ -1,1 +1,1 @@
-[GitHub](https://github.com/iamnotaskynet)
+[GitHubPages](https://iamnotaskynet.github.io/)
